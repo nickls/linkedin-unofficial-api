@@ -83,7 +83,9 @@ $ curl  https://www.linkedin.com/uas/authenticate  -d 'session_key=username%40gm
 login_result:
 - PASS -- success, you can now call the API.
 - BAD_PASSWORD -- failure, self explanatory. 
-- CHALLENGE -- the challenge_url will then be set, call it. solve the recaptcha, party on!
+- CHALLENGE -- the challenge_url will then be set, call it. solve the recaptcha, party on! 
+
+> Some thoughts on how to solve or avoid the captcha. [Issue #1](https://github.com/nickls/linkedin-unofficial-api/issues/1#issuecomment-396908023)
 
 
 #### Current User Profile
