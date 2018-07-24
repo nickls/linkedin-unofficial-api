@@ -421,7 +421,7 @@ $ curl https://touch.www.linkedin.com/li/v1/pages/mailbox -b cookie.jr -c cookie
 
 ## Installation & Usage
 
-XXX, link to JS and python APIs
+[Python Client](https://github.com/tomquirk/linkedin-api) - by [@tomquirk](https://github.com/tomquirk)
 
 ## Disclamer
 
